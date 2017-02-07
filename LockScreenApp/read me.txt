@@ -1,0 +1,6 @@
+﻿LockscreenAppの説明。
+
+LockscreenAppは「英単語スクリーンロック」のコードです。
+
+開発ツール：eclipse
+開発言語：JAVA

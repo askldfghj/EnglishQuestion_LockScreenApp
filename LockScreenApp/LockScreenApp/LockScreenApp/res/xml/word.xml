@@ -1,0 +1,4139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<word_list>
+
+    <word_set>
+        <word word="analyze" >
+        </word>
+
+        <mean1 mean="분석하다," >
+        </mean1>
+
+        <mean2 mean="검토하다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="anniversary" >
+        </word>
+
+        <mean1 mean="기념일" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="approximately" >
+        </word>
+
+        <mean1 mean="약," >
+        </mean1>
+
+        <mean2 mean="거의," >
+        </mean2>
+
+        <mean3 mean="대략" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="attenttion" >
+        </word>
+
+        <mean1 mean="주의," >
+        </mean1>
+
+        <mean2 mean="주목," >
+        </mean2>
+
+        <mean3 mean="관심" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="circumstance" >
+        </word>
+
+        <mean1 mean="상황," >
+        </mean1>
+
+        <mean2 mean="정황" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="competitor" >
+        </word>
+
+        <mean1 mean="경쟁," >
+        </mean1>
+
+        <mean2 mean="(시합) 참가자" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="complete" >
+        </word>
+
+        <mean1 mean="완료하다," >
+        </mean1>
+
+        <mean2 mean="끝마치다," >
+        </mean2>
+
+        <mean3 mean="완벽한" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="conflict" >
+        </word>
+
+        <mean1 mean="충돌," >
+        </mean1>
+
+        <mean2 mean="상충," >
+        </mean2>
+
+        <mean3 mean="불일치" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="contain" >
+        </word>
+
+        <mean1 mean="~이 들어있다," >
+        </mean1>
+
+        <mean2 mean="포함하다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="current" >
+        </word>
+
+        <mean1 mean="현재의" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="deny" >
+        </word>
+
+        <mean1 mean="부인하다," >
+        </mean1>
+
+        <mean2 mean="거부하다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="enhance" >
+        </word>
+
+        <mean1 mean="강화하다," >
+        </mean1>
+
+        <mean2 mean="늘리다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="experiment" >
+        </word>
+
+        <mean1 mean="시도하다," >
+        </mean1>
+
+        <mean2 mean="실험 삼아 해보다," >
+        </mean2>
+
+        <mean3 mean="(과학적인) 실험" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="facilitate" >
+        </word>
+
+        <mean1 mean="가능(용이)하게 하다," >
+        </mean1>
+
+        <mean2 mean="촉진하다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="foremost" >
+        </word>
+
+        <mean1 mean="맨 앞의," >
+        </mean1>
+
+        <mean2 mean="일류의," >
+        </mean2>
+
+        <mean3 mean="주요한" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="generously" >
+        </word>
+
+        <mean1 mean="아낌없이," >
+        </mean1>
+
+        <mean2 mean="관대하게" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="grant" >
+        </word>
+
+        <mean1 mean="보조금," >
+        </mean1>
+
+        <mean2 mean="승인하다," >
+        </mean2>
+
+        <mean3 mean="주다" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="integral" >
+        </word>
+
+        <mean1 mean="필수의," >
+        </mean1>
+
+        <mean2 mean="빠진 것이 없는" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="launch" >
+        </word>
+
+        <mean1 mean="개시," >
+        </mean1>
+
+        <mean2 mean="출시," >
+        </mean2>
+
+        <mean3 mean="시작하다" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="mandatory" >
+        </word>
+
+        <mean1 mean="필수의," >
+        </mean1>
+
+        <mean2 mean="의무적인," >
+        </mean2>
+
+        <mean3 mean="법으로 정해진" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="nearly" >
+        </word>
+
+        <mean1 mean="거의" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="once" >
+        </word>
+
+        <mean1 mean="한 번" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="originally" >
+        </word>
+
+        <mean1 mean="원래," >
+        </mean1>
+
+        <mean2 mean="본래는" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="persuade" >
+        </word>
+
+        <mean1 mean="설득하다" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="preparation" >
+        </word>
+
+        <mean1 mean="준비," >
+        </mean1>
+
+        <mean2 mean="대비" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="productive" >
+        </word>
+
+        <mean1 mean="생산적인," >
+        </mean1>
+
+        <mean2 mean="결실 있는" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="purpose" >
+        </word>
+
+        <mean1 mean="목적," >
+        </mean1>
+
+        <mean2 mean="의도" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="reduce" >
+        </word>
+
+        <mean1 mean="줄이다," >
+        </mean1>
+
+        <mean2 mean="낮추다," >
+        </mean2>
+
+        <mean3 mean="인하하다" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="release" >
+        </word>
+
+        <mean1 mean="공개하다," >
+        </mean1>
+
+        <mean2 mean="발표하다," >
+        </mean2>
+
+        <mean3 mean="개봉" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="respective" >
+        </word>
+
+        <mean1 mean="각자의," >
+        </mean1>
+
+        <mean2 mean="각각의" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="result" >
+        </word>
+
+        <mean1 mean="(~의 결과로)되다," >
+        </mean1>
+
+        <mean2 mean="귀착하다," >
+        </mean2>
+
+        <mean3 mean="결과" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="search" >
+        </word>
+
+        <mean1 mean="찾다," >
+        </mean1>
+
+        <mean2 mean="수색하다," >
+        </mean2>
+
+        <mean3 mean="검색" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="sequence" >
+        </word>
+
+        <mean1 mean="연속," >
+        </mean1>
+
+        <mean2 mean="순서," >
+        </mean2>
+
+        <mean3 mean="차례" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="specialization" >
+        </word>
+
+        <mean1 mean="특수화," >
+        </mean1>
+
+        <mean2 mean="전문 과목," >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="supervisor" >
+        </word>
+
+        <mean1 mean="상사," >
+        </mean1>
+
+        <mean2 mean="관리자" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="target" >
+        </word>
+
+        <mean1 mean="목표로 삼다," >
+        </mean1>
+
+        <mean2 mean="겨냥하다," >
+        </mean2>
+
+        <mean3 mean="표적" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="timely" >
+        </word>
+
+        <mean1 mean="시기 적절한," >
+        </mean1>
+
+        <mean2 mean="때맞춘" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="transition" >
+        </word>
+
+        <mean1 mean="변화," >
+        </mean1>
+
+        <mean2 mean="추이" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="unexpectedly" >
+        </word>
+
+        <mean1 mean="뜻밖에," >
+        </mean1>
+
+        <mean2 mean="갑자기" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="unfavorable" >
+        </word>
+
+        <mean1 mean="비호의적인," >
+        </mean1>
+
+        <mean2 mean="부정적인," >
+        </mean2>
+
+        <mean3 mean="상황이 나쁜" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="activate" >
+        </word>
+
+        <mean1 mean="작동시키다," >
+        </mean1>
+
+        <mean2 mean="활성화시키다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="administrative" >
+        </word>
+
+        <mean1 mean="관리상의," >
+        </mean1>
+
+        <mean2 mean="행정상의" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="all the more" >
+        </word>
+
+        <mean1 mean="그 만큼 더," >
+        </mean1>
+
+        <mean2 mean="더욱 더" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="ambitious" >
+        </word>
+
+        <mean1 mean="야심적인," >
+        </mean1>
+
+        <mean2 mean="야심 있는" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="apparent" >
+        </word>
+
+        <mean1 mean="분명한," >
+        </mean1>
+
+        <mean2 mean="누가 봐도 알 수 있는" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="associated" >
+        </word>
+
+        <mean1 mean="관련된," >
+        </mean1>
+
+        <mean2 mean="연합된" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="at all times" >
+        </word>
+
+        <mean1 mean="항상," >
+        </mean1>
+
+        <mean2 mean="언제나" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="attire" >
+        </word>
+
+        <mean1 mean="의장," >
+        </mean1>
+
+        <mean2 mean="복장" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="be accounted for" >
+        </word>
+
+        <mean1 mean="보고되다," >
+        </mean1>
+
+        <mean2 mean="해명되다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="boardroom" >
+        </word>
+
+        <mean1 mean="중역 회의실," >
+        </mean1>
+
+        <mean2 mean="이사회실" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="briefly" >
+        </word>
+
+        <mean1 mean="잠시," >
+        </mean1>
+
+        <mean2 mean="간단히," >
+        </mean2>
+
+        <mean3 mean="짧게" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="commuter" >
+        </word>
+
+        <mean1 mean="통근자" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="conduct" >
+        </word>
+
+        <mean1 mean="(업무 따위를)실시하다," >
+        </mean1>
+
+        <mean2 mean="행동하다," >
+        </mean2>
+
+        <mean3 mean="지휘" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="definitely" >
+        </word>
+
+        <mean1 mean="분명히," >
+        </mean1>
+
+        <mean2 mean="절대로" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="department" >
+        </word>
+
+        <mean1 mean="부," >
+        </mean1>
+
+        <mean2 mean="부서" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="device" >
+        </word>
+
+        <mean1 mean="장치," >
+        </mean1>
+
+        <mean2 mean="기구" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="enlarge" >
+        </word>
+
+        <mean1 mean="확대하다," >
+        </mean1>
+
+        <mean2 mean="확장하다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="exclusively" >
+        </word>
+
+        <mean1 mean="독점적으로," >
+        </mean1>
+
+        <mean2 mean="오로지," >
+        </mean2>
+
+        <mean3 mean="배타적으로" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="expect" >
+        </word>
+
+        <mean1 mean="예상하다," >
+        </mean1>
+
+        <mean2 mean="예기하다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="fold" >
+        </word>
+
+        <mean1 mean="접다," >
+        </mean1>
+
+        <mean2 mean="감싸다," >
+        </mean2>
+
+        <mean3 mean="주름" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="institute" >
+        </word>
+
+        <mean1 mean="(정책 등을)도입하다," >
+        </mean1>
+
+        <mean2 mean="(절차를)시작하다," >
+        </mean2>
+
+        <mean3 mean="기관" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="leave" >
+        </word>
+
+        <mean1 mean="남기다," >
+        </mean1>
+
+        <mean2 mean="방치하다," >
+        </mean2>
+
+        <mean3 mean="휴가" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="load" >
+        </word>
+
+        <mean1 mean="장전하다," >
+        </mean1>
+
+        <mean2 mean="끼우다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="mail" >
+        </word>
+
+        <mean1 mean="(우편으로)보내다," >
+        </mean1>
+
+        <mean2 mean="발송하다," >
+        </mean2>
+
+        <mean3 mean="우편(물)" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="outstanding" >
+        </word>
+
+        <mean1 mean="뛰어난," >
+        </mean1>
+
+        <mean2 mean="눈에 띄는," >
+        </mean2>
+
+        <mean3 mean="미해결의" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="over" >
+        </word>
+
+        <mean1 mean="~이상," >
+        </mean1>
+
+        <mean2 mean="~을 넘어" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="personnel" >
+        </word>
+
+        <mean1 mean="인사(과)의," >
+        </mean1>
+
+        <mean2 mean="전 직원" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="procedure" >
+        </word>
+
+        <mean1 mean="절차," >
+        </mean1>
+
+        <mean2 mean="순서" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="rationale" >
+        </word>
+
+        <mean1 mean="이론적 설명," >
+        </mean1>
+
+        <mean2 mean="이유," >
+        </mean2>
+
+        <mean3 mean="원리" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="regain" >
+        </word>
+
+        <mean1 mean="되찾다," >
+        </mean1>
+
+        <mean2 mean="~에 되돌아가다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="regarding" >
+        </word>
+
+        <mean1 mean="~에 관해" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="security" >
+        </word>
+
+        <mean1 mean="보안," >
+        </mean1>
+
+        <mean2 mean="경비" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="shift" >
+        </word>
+
+        <mean1 mean="교대조(근무)," >
+        </mean1>
+
+        <mean2 mean="변화," >
+        </mean2>
+
+        <mean3 mean="이동하다" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="since" >
+        </word>
+
+        <mean1 mean="그 후," >
+        </mean1>
+
+        <mean2 mean="그 뒤 줄곧" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="staff lounge" >
+        </word>
+
+        <mean1 mean="직원 휴게실," >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="supply" >
+        </word>
+
+        <mean1 mean="비품," >
+        </mean1>
+
+        <mean2 mean="공급하다," >
+        </mean2>
+
+        <mean3 mean="제공하다" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="tentative" >
+        </word>
+
+        <mean1 mean="시험적인," >
+        </mean1>
+
+        <mean2 mean="잠정적인," >
+        </mean2>
+
+        <mean3 mean="임시의" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="understaffed" >
+        </word>
+
+        <mean1 mean="인원이 부족한" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="workplace" >
+        </word>
+
+        <mean1 mean="직장," >
+        </mean1>
+
+        <mean2 mean="일터" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="achievement" >
+        </word>
+
+        <mean1 mean="업적," >
+        </mean1>
+
+        <mean2 mean="성취" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="attachment" >
+        </word>
+
+        <mean1 mean="부착," >
+        </mean1>
+
+        <mean2 mean="첨부(파일)" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="collaborate" >
+        </word>
+
+        <mean1 mean="협력하다," >
+        </mean1>
+
+        <mean2 mean="공동으로 작업하다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="contribute" >
+        </word>
+
+        <mean1 mean="기여하다," >
+        </mean1>
+
+        <mean2 mean="이바지하다," >
+        </mean2>
+
+        <mean3 mean="기고하다" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="contribution" >
+        </word>
+
+        <mean1 mean="기여," >
+        </mean1>
+
+        <mean2 mean="기부(금)," >
+        </mean2>
+
+        <mean3 mean="기고" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="deadline" >
+        </word>
+
+        <mean1 mean="기한," >
+        </mean1>
+
+        <mean2 mean="마감 시한" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="diverse" >
+        </word>
+
+        <mean1 mean="다양한" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="document" >
+        </word>
+
+        <mean1 mean="서류," >
+        </mean1>
+
+        <mean2 mean="기록하다," >
+        </mean2>
+
+        <mean3 mean="서류로 입증하다" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="draft" >
+        </word>
+
+        <mean1 mean="원고," >
+        </mean1>
+
+        <mean2 mean="초안" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="documentation" >
+        </word>
+
+        <mean1 mean="기록(문서)," >
+        </mean1>
+
+        <mean2 mean="문서화," >
+        </mean2>
+
+        <mean3 mean="증거 서류에 의한 뒷받침" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="duplication" >
+        </word>
+
+        <mean1 mean="복사," >
+        </mean1>
+
+        <mean2 mean="복제," >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="encourage" >
+        </word>
+
+        <mean1 mean="권장하다," >
+        </mean1>
+
+        <mean2 mean="고무하다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="exceptional" >
+        </word>
+
+        <mean1 mean="이례적인," >
+        </mean1>
+
+        <mean2 mean="뛰어난" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="extend" >
+        </word>
+
+        <mean1 mean="(기한을)연장하다," >
+        </mean1>
+
+        <mean2 mean="늘리다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="finalize" >
+        </word>
+
+        <mean1 mean="마무리짓다," >
+        </mean1>
+
+        <mean2 mean="완결하다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="hand" >
+        </word>
+
+        <mean1 mean="건네주다," >
+        </mean1>
+
+        <mean2 mean="손," >
+        </mean2>
+
+        <mean3 mean="일손" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="imperative" >
+        </word>
+
+        <mean1 mean="반드시 해야 하는," >
+        </mean1>
+
+        <mean2 mean="긴요한," >
+        </mean2>
+
+        <mean3 mean="명령" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="implement" >
+        </word>
+
+        <mean1 mean="시행하다," >
+        </mean1>
+
+        <mean2 mean="이행하다," >
+        </mean2>
+
+        <mean3 mean="연장" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="insufficient" >
+        </word>
+
+        <mean1 mean="불충분한," >
+        </mean1>
+
+        <mean2 mean="부족한" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="letterhead" >
+        </word>
+
+        <mean1 mean="위 쪽의 인쇄문구," >
+        </mean1>
+
+        <mean2 mean="회사 편지지" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="mastermind" >
+        </word>
+
+        <mean1 mean="지도자," >
+        </mean1>
+
+        <mean2 mean="주모자," >
+        </mean2>
+
+        <mean3 mean="교묘히 지도하다" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="mistake" >
+        </word>
+
+        <mean1 mean="실수," >
+        </mean1>
+
+        <mean2 mean="잘못," >
+        </mean2>
+
+        <mean3 mean="오류" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="operation" >
+        </word>
+
+        <mean1 mean="사업," >
+        </mean1>
+
+        <mean2 mean="운영," >
+        </mean2>
+
+        <mean3 mean="경영" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="overview" >
+        </word>
+
+        <mean1 mean="개관," >
+        </mean1>
+
+        <mean2 mean="개요" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="paperwork" >
+        </word>
+
+        <mean1 mean="서류 작업," >
+        </mean1>
+
+        <mean2 mean="문서 업무" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="progress" >
+        </word>
+
+        <mean1 mean="진행," >
+        </mean1>
+
+        <mean2 mean="경과," >
+        </mean2>
+
+        <mean3 mean="진행하다" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="proposal" >
+        </word>
+
+        <mean1 mean="제안," >
+        </mean1>
+
+        <mean2 mean="제의" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="renewal" >
+        </word>
+
+        <mean1 mean="갱신," >
+        </mean1>
+
+        <mean2 mean="(기한)연장" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="reproduce" >
+        </word>
+
+        <mean1 mean="복사하다," >
+        </mean1>
+
+        <mean2 mean="재생하다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="respond" >
+        </word>
+
+        <mean1 mean="대답하다," >
+        </mean1>
+
+        <mean2 mean="답장을 보내다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="revise" >
+        </word>
+
+        <mean1 mean="수정하다," >
+        </mean1>
+
+        <mean2 mean="변경하다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="revision" >
+        </word>
+
+        <mean1 mean="수정(사항)," >
+        </mean1>
+
+        <mean2 mean="수정본," >
+        </mean2>
+
+        <mean3 mean="교정본" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="rush" >
+        </word>
+
+        <mean1 mean="급히 움직이다," >
+        </mean1>
+
+        <mean2 mean="서두르다," >
+        </mean2>
+
+        <mean3 mean="돌진" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="sign" >
+        </word>
+
+        <mean1 mean="서명하다" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="submit" >
+        </word>
+
+        <mean1 mean="제출하다," >
+        </mean1>
+
+        <mean2 mean="제기하다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="subsequent to" >
+        </word>
+
+        <mean1 mean="~다음에," >
+        </mean1>
+
+        <mean2 mean="~차후에" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="summarize" >
+        </word>
+
+        <mean1 mean="요악하다," >
+        </mean1>
+
+        <mean2 mean="개괄하다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="summary" >
+        </word>
+
+        <mean1 mean="요약," >
+        </mean1>
+
+        <mean2 mean="개괄," >
+        </mean2>
+
+        <mean3 mean="요악한" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="template" >
+        </word>
+
+        <mean1 mean="형판," >
+        </mean1>
+
+        <mean2 mean="템플릿" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="tight" >
+        </word>
+
+        <mean1 mean="(여유가 없이)빠듯한" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="address" >
+        </word>
+
+        <mean1 mean="(문제 등을)다루다," >
+        </mean1>
+
+        <mean2 mean="연설하다," >
+        </mean2>
+
+        <mean3 mean="주소" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="agenda" >
+        </word>
+
+        <mean1 mean="안건," >
+        </mean1>
+
+        <mean2 mean="의제," >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="announce" >
+        </word>
+
+        <mean1 mean="발표하다," >
+        </mean1>
+
+        <mean2 mean="알리다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="arrangement" >
+        </word>
+
+        <mean1 mean="준비," >
+        </mean1>
+
+        <mean2 mean="마련," >
+        </mean2>
+
+        <mean3 mean="합의" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="attend" >
+        </word>
+
+        <mean1 mean="참석하다" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="attentive" >
+        </word>
+
+        <mean1 mean="주의를 기울이는" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="audience" >
+        </word>
+
+        <mean1 mean="청중," >
+        </mean1>
+
+        <mean2 mean="관람객," >
+        </mean2>
+
+        <mean3 mean="시청자" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="brainstorm" >
+        </word>
+
+        <mean1 mean="브레인스토밍을 하다," >
+        </mean1>
+
+        <mean2 mean="자유롭게 생각하다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="break" >
+        </word>
+
+        <mean1 mean="휴식," >
+        </mean1>
+
+        <mean2 mean="중단," >
+        </mean2>
+
+        <mean3 mean="깨지다" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="circulate" >
+        </word>
+
+        <mean1 mean="(모든 사람들에게)돌리다," >
+        </mean1>
+
+        <mean2 mean="알리다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="come up with" >
+        </word>
+
+        <mean1 mean="(해답을)찾아내다," >
+        </mean1>
+
+        <mean2 mean="내놓다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="comment" >
+        </word>
+
+        <mean1 mean="논평하다," >
+        </mean1>
+
+        <mean2 mean="견해를 밝히다," >
+        </mean2>
+
+        <mean3 mean="언급" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="consensus" >
+        </word>
+
+        <mean1 mean="의견 일치," >
+        </mean1>
+
+        <mean2 mean="합의" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="executive" >
+        </word>
+
+        <mean1 mean="간부," >
+        </mean1>
+
+        <mean2 mean="중역," >
+        </mean2>
+
+        <mean3 mean="이사" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="highlight" >
+        </word>
+
+        <mean1 mean="강조하다," >
+        </mean1>
+
+        <mean2 mean="강조(하는 부분)," >
+        </mean2>
+
+        <mean3 mean="중요한 장면" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="inform" >
+        </word>
+
+        <mean1 mean="알리다," >
+        </mean1>
+
+        <mean2 mean="통지하다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="instructor" >
+        </word>
+
+        <mean1 mean="강사," >
+        </mean1>
+
+        <mean2 mean="지도자" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="intensive" >
+        </word>
+
+        <mean1 mean="집중적인," >
+        </mean1>
+
+        <mean2 mean="철두철미한" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="lead" >
+        </word>
+
+        <mean1 mean="지휘하다," >
+        </mean1>
+
+        <mean2 mean="이끌다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="material" >
+        </word>
+
+        <mean1 mean="재료," >
+        </mean1>
+
+        <mean2 mean="자료" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="matter" >
+        </word>
+
+        <mean1 mean="문제," >
+        </mean1>
+
+        <mean2 mean="사안," >
+        </mean2>
+
+        <mean3 mean="문제가 되다" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="minutes" >
+        </word>
+
+        <mean1 mean="회의록," >
+        </mean1>
+
+        <mean2 mean="의사록" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="negotiate" >
+        </word>
+
+        <mean1 mean="협상하다," >
+        </mean1>
+
+        <mean2 mean="타결하다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="ongoing" >
+        </word>
+
+        <mean1 mean="(계속)진행 중인" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="organize" >
+        </word>
+
+        <mean1 mean="조직하다," >
+        </mean1>
+
+        <mean2 mean="체계화(구조화)하다," >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="pass out" >
+        </word>
+
+        <mean1 mean="건네주다," >
+        </mean1>
+
+        <mean2 mean="나눠주다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="policy" >
+        </word>
+
+        <mean1 mean="정책," >
+        </mean1>
+
+        <mean2 mean="방침" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="postpone" >
+        </word>
+
+        <mean1 mean="연기하다," >
+        </mean1>
+
+        <mean2 mean="미루다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="presentation" >
+        </word>
+
+        <mean1 mean="발표" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="recess" >
+        </word>
+
+        <mean1 mean="휴식," >
+        </mean1>
+
+        <mean2 mean="휴식시간" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="reschedule" >
+        </word>
+
+        <mean1 mean="일정을 변경하다" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="schedule" >
+        </word>
+
+        <mean1 mean="일정을 잡다," >
+        </mean1>
+
+        <mean2 mean="일정," >
+        </mean2>
+
+        <mean3 mean="스케줄" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="session" >
+        </word>
+
+        <mean1 mean="(수업)시간," >
+        </mean1>
+
+        <mean2 mean="(활동의)기간" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="share" >
+        </word>
+
+        <mean1 mean="(감정,생각등을)공유하다," >
+        </mean1>
+
+        <mean2 mean="(남에게)말하다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="short notice" >
+        </word>
+
+        <mean1 mean="갑작스러운 통보" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="state" >
+        </word>
+
+        <mean1 mean="말하다," >
+        </mean1>
+
+        <mean2 mean="진술하다," >
+        </mean2>
+
+        <mean3 mean="(문서에)명시하다" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="take notes" >
+        </word>
+
+        <mean1 mean="메모하다," >
+        </mean1>
+
+        <mean2 mean="기록하다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="train" >
+        </word>
+
+        <mean1 mean="교육시키다," >
+        </mean1>
+
+        <mean2 mean="훈련시키다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="unanimously" >
+        </word>
+
+        <mean1 mean="만장일치로" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="vote" >
+        </word>
+
+        <mean1 mean="투표하다," >
+        </mean1>
+
+        <mean2 mean="동의하다," >
+        </mean2>
+
+        <mean3 mean="투표(권)" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="accordingly" >
+        </word>
+
+        <mean1 mean="그에 맞춰," >
+        </mean1>
+
+        <mean2 mean="그런 이유로" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="accountable" >
+        </word>
+
+        <mean1 mean="책임이 있는" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="acquaint" >
+        </word>
+
+        <mean1 mean="알려주다," >
+        </mean1>
+
+        <mean2 mean="숙지하다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="advisor" >
+        </word>
+
+        <mean1 mean="고문," >
+        </mean1>
+
+        <mean2 mean="조언자" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="at the latest" >
+        </word>
+
+        <mean1 mean="(아무리)늦어도" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="client" >
+        </word>
+
+        <mean1 mean="고객," >
+        </mean1>
+
+        <mean2 mean="의뢰인" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="count on" >
+        </word>
+
+        <mean1 mean="~에 의존하다," >
+        </mean1>
+
+        <mean2 mean="기대다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="directory" >
+        </word>
+
+        <mean1 mean="주소록," >
+        </mean1>
+
+        <mean2 mean="인명부" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="dispose" >
+        </word>
+
+        <mean1 mean="처리하다" >
+        </mean1>
+
+        <mean2 mean="처분하다(of)" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="district" >
+        </word>
+
+        <mean1 mean="지구," >
+        </mean1>
+
+        <mean2 mean="구역" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="divide" >
+        </word>
+
+        <mean1 mean="나누다," >
+        </mean1>
+
+        <mean2 mean="분할하다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="essential" >
+        </word>
+
+        <mean1 mean="필수적인," >
+        </mean1>
+
+        <mean2 mean="(극히)중요한" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="explain" >
+        </word>
+
+        <mean1 mean="설명하다" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="extension" >
+        </word>
+
+        <mean1 mean="내선(번호)" >
+        </mean1>
+
+        <mean2 mean="구내번호" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="frequently" >
+        </word>
+
+        <mean1 mean="자주," >
+        </mean1>
+
+        <mean2 mean="흔히" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="general" >
+        </word>
+
+        <mean1 mean="전반적인," >
+        </mean1>
+
+        <mean2 mean="일반적인" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="helpful" >
+        </word>
+
+        <mean1 mean="도움이 되는," >
+        </mean1>
+
+        <mean2 mean="유용한" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="informative" >
+        </word>
+
+        <mean1 mean="유익한," >
+        </mean1>
+
+        <mean2 mean="정보를 제공하는" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="in regard to" >
+        </word>
+
+        <mean1 mean="~에 대하여," >
+        </mean1>
+
+        <mean2 mean="~와 관련하여" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="manage" >
+        </word>
+
+        <mean1 mean="운영(경영)하다," >
+        </mean1>
+
+        <mean2 mean="관리하다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="manual" >
+        </word>
+
+        <mean1 mean="설명서," >
+        </mean1>
+
+        <mean2 mean="안내서" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="method" >
+        </word>
+
+        <mean1 mean="방법," >
+        </mean1>
+
+        <mean2 mean="방식" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="notify" >
+        </word>
+
+        <mean1 mean="알리다," >
+        </mean1>
+
+        <mean2 mean="통지하다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="periodically" >
+        </word>
+
+        <mean1 mean="정기적으로," >
+        </mean1>
+
+        <mean2 mean="주기적으로" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="pertinent" >
+        </word>
+
+        <mean1 mean="적절한," >
+        </mean1>
+
+        <mean2 mean="관련 있는" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="pretty" >
+        </word>
+
+        <mean1 mean="꽤," >
+        </mean1>
+
+        <mean2 mean="아주," >
+        </mean2>
+
+        <mean3 mean="예쁜" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="provisionally" >
+        </word>
+
+        <mean1 mean="일시적으로," >
+        </mean1>
+
+        <mean2 mean="조건부로" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="regularly" >
+        </word>
+
+        <mean1 mean="정기적으로," >
+        </mean1>
+
+        <mean2 mean="자주" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="reliable" >
+        </word>
+
+        <mean1 mean="믿을 만한" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="representative" >
+        </word>
+
+        <mean1 mean="대표자," >
+        </mean1>
+
+        <mean2 mean="대리인," >
+        </mean2>
+
+        <mean3 mean="전형적인" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="resolve" >
+        </word>
+
+        <mean1 mean="해결하다," >
+        </mean1>
+
+        <mean2 mean="풀다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="respect" >
+        </word>
+
+        <mean1 mean="존경(심)," >
+        </mean1>
+
+        <mean2 mean="경의" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="rest" >
+        </word>
+
+        <mean1 mean="나머지," >
+        </mean1>
+
+        <mean2 mean="잔여(the~)" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="solidify" >
+        </word>
+
+        <mean1 mean="굳히다," >
+        </mean1>
+
+        <mean2 mean="확고히 하다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="specific" >
+        </word>
+
+        <mean1 mean="구체적인," >
+        </mean1>
+
+        <mean2 mean="특정한" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="strategy" >
+        </word>
+
+        <mean1 mean="전략," >
+        </mean1>
+
+        <mean2 mean="전술" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="superb" >
+        </word>
+
+        <mean1 mean="최고의," >
+        </mean1>
+
+        <mean2 mean="대단히 훌륭한" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="suppose" >
+        </word>
+
+        <mean1 mean="~이라고 생각하다," >
+        </mean1>
+
+        <mean2 mean="가정하다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="surpass" >
+        </word>
+
+        <mean1 mean="능가하다," >
+        </mean1>
+
+        <mean2 mean="~보다 뛰어나다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="usual" >
+        </word>
+
+        <mean1 mean="보통의," >
+        </mean1>
+
+        <mean2 mean="평상시의," >
+        </mean2>
+
+        <mean3 mean="늘 하는 일" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="addintional" >
+        </word>
+
+        <mean1 mean="추가(된 것)," >
+        </mean1>
+
+        <mean2 mean="충원인력," >
+        </mean2>
+
+        <mean3 mean="새 얼굴" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="applicant" >
+        </word>
+
+        <mean1 mean="지원자," >
+        </mean1>
+
+        <mean2 mean="신청자" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="assistant" >
+        </word>
+
+        <mean1 mean="조력자," >
+        </mean1>
+
+        <mean2 mean="조수," >
+        </mean2>
+
+        <mean3 mean="비서" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="associate" >
+        </word>
+
+        <mean1 mean="(사업,직장)동료," >
+        </mean1>
+
+        <mean2 mean="조합원" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="bachelor&apos;s degree" >
+        </word>
+
+        <mean1 mean="학사 학위" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="candidate" >
+        </word>
+
+        <mean1 mean="지원자," >
+        </mean1>
+
+        <mean2 mean="후보자" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="clerical" >
+        </word>
+
+        <mean1 mean="사무직의" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="compensation" >
+        </word>
+
+        <mean1 mean="보상(금)," >
+        </mean1>
+
+        <mean2 mean="보수," >
+        </mean2>
+
+        <mean3 mean="급료" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="confidential" >
+        </word>
+
+        <mean1 mean="기밀의," >
+        </mean1>
+
+        <mean2 mean="비밀의" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="consideration" >
+        </word>
+
+        <mean1 mean="고려(사항)," >
+        </mean1>
+
+        <mean2 mean="숙고" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="consistently" >
+        </word>
+
+        <mean1 mean="항상," >
+        </mean1>
+
+        <mean2 mean="시종일관" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="electronically" >
+        </word>
+
+        <mean1 mean="컴퓨터로," >
+        </mean1>
+
+        <mean2 mean="전자로" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="employment" >
+        </word>
+
+        <mean1 mean="취업," >
+        </mean1>
+
+        <mean2 mean="채용," >
+        </mean2>
+
+        <mean3 mean="고용" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="ethic" >
+        </word>
+
+        <mean1 mean="윤리," >
+        </mean1>
+
+        <mean2 mean="도덕" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="evident" >
+        </word>
+
+        <mean1 mean="분명한," >
+        </mean1>
+
+        <mean2 mean="눈에 띄는" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="familiarity" >
+        </word>
+
+        <mean1 mean="익숙함," >
+        </mean1>
+
+        <mean2 mean="친숙함" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="fill" >
+        </word>
+
+        <mean1 mean="채우다" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="fit" >
+        </word>
+
+        <mean1 mean="~에 들어맞는," >
+        </mean1>
+
+        <mean2 mean="적절하다," >
+        </mean2>
+
+        <mean3 mean="적절한" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="ideal" >
+        </word>
+
+        <mean1 mean="이상적인," >
+        </mean1>
+
+        <mean2 mean="가장 알맞은," >
+        </mean2>
+
+        <mean3 mean="이상" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="interview" >
+        </word>
+
+        <mean1 mean="면접을 보다," >
+        </mean1>
+
+        <mean2 mean="인터뷰하다," >
+        </mean2>
+
+        <mean3 mean="면접" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="invite" >
+        </word>
+
+        <mean1 mean="초대하다," >
+        </mean1>
+
+        <mean2 mean="요청하다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="opportunity" >
+        </word>
+
+        <mean1 mean="기회" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="permanent" >
+        </word>
+
+        <mean1 mean="영구적인," >
+        </mean1>
+
+        <mean2 mean="불변의" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="position" >
+        </word>
+
+        <mean1 mean="직(책)," >
+        </mean1>
+
+        <mean2 mean="위치," >
+        </mean2>
+
+        <mean3 mean="입장" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="post" >
+        </word>
+
+        <mean1 mean="(안내문을)게시하다," >
+        </mean1>
+
+        <mean2 mean="공고하다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="prefer" >
+        </word>
+
+        <mean1 mean="선호하다," >
+        </mean1>
+
+        <mean2 mean="더 좋아하다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="previously" >
+        </word>
+
+        <mean1 mean="이전에," >
+        </mean1>
+
+        <mean2 mean="미리" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="preficiency" >
+        </word>
+
+        <mean1 mean="숙달," >
+        </mean1>
+
+        <mean2 mean="능숙" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="prospective" >
+        </word>
+
+        <mean1 mean="장래의," >
+        </mean1>
+
+        <mean2 mean="예상되는" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="qualify" >
+        </word>
+
+        <mean1 mean="~에게 자격을 주다," >
+        </mean1>
+
+        <mean2 mean="적임으로 하다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="recommendation" >
+        </word>
+
+        <mean1 mean="추천(서)," >
+        </mean1>
+
+        <mean2 mean="권고" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="recruit" >
+        </word>
+
+        <mean1 mean="신입사원," >
+        </mean1>
+
+        <mean2 mean="신입 회원," >
+        </mean2>
+
+        <mean3 mean="모집하다" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="reference" >
+        </word>
+
+        <mean1 mean="추천서," >
+        </mean1>
+
+        <mean2 mean="신원조회처," >
+        </mean2>
+
+        <mean3 mean="참고문헌을 달다" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="related" >
+        </word>
+
+        <mean1 mean="관련 있는," >
+        </mean1>
+
+        <mean2 mean="관련된" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="renew" >
+        </word>
+
+        <mean1 mean="연장하다," >
+        </mean1>
+
+        <mean2 mean="갱신하다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="required" >
+        </word>
+
+        <mean1 mean="필수의" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="responsibility" >
+        </word>
+
+        <mean1 mean="책임," >
+        </mean1>
+
+        <mean2 mean="책무" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="seek" >
+        </word>
+
+        <mean1 mean="구하다," >
+        </mean1>
+
+        <mean2 mean="찾다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="suited" >
+        </word>
+
+        <mean1 mean="적합한," >
+        </mean1>
+
+        <mean2 mean="어울리다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="workforce" >
+        </word>
+
+        <mean1 mean="노동력," >
+        </mean1>
+
+        <mean2 mean="(조직의 모든)노동자" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="advance" >
+        </word>
+
+        <mean1 mean="승진하다," >
+        </mean1>
+
+        <mean2 mean="출세하다," >
+        </mean2>
+
+        <mean3 mean="전진" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="appoint" >
+        </word>
+
+        <mean1 mean="임명하다," >
+        </mean1>
+
+        <mean2 mean="지명하다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="appraisal" >
+        </word>
+
+        <mean1 mean="평가," >
+        </mean1>
+
+        <mean2 mean="판단" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="assignment" >
+        </word>
+
+        <mean1 mean="임무," >
+        </mean1>
+
+        <mean2 mean="할당된 일" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="assume" >
+        </word>
+
+        <mean1 mean="(권력,임무를)맡다," >
+        </mean1>
+
+        <mean2 mean="(책임을)지다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="authorize" >
+        </word>
+
+        <mean1 mean="~에게 권한을 부여하다," >
+        </mean1>
+
+        <mean2 mean="허가하다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="caliber" >
+        </word>
+
+        <mean1 mean="재능," >
+        </mean1>
+
+        <mean2 mean="인물," >
+        </mean2>
+
+        <mean3 mean="재간" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="commensurate" >
+        </word>
+
+        <mean1 mean="(자질 등에)상응하는," >
+        </mean1>
+
+        <mean2 mean="어울리는" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="completion" >
+        </word>
+
+        <mean1 mean="완료," >
+        </mean1>
+
+        <mean2 mean="완성" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="dependable" >
+        </word>
+
+        <mean1 mean="믿을 수 있는," >
+        </mean1>
+
+        <mean2 mean="기댈 만한" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="diligent" >
+        </word>
+
+        <mean1 mean="근면한," >
+        </mean1>
+
+        <mean2 mean="성실한" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="duty" >
+        </word>
+
+        <mean1 mean="직무," >
+        </mean1>
+
+        <mean2 mean="업무" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="effective" >
+        </word>
+
+        <mean1 mean="(법률,규정 등이)시행되는," >
+        </mean1>
+
+        <mean2 mean="효력 있는" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="eligible" >
+        </word>
+
+        <mean1 mean="자격이 있는," >
+        </mean1>
+
+        <mean2 mean="적임의" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="expertise" >
+        </word>
+
+        <mean1 mean="전문 지식" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="extensive" >
+        </word>
+
+        <mean1 mean="광범위한," >
+        </mean1>
+
+        <mean2 mean="폭넓은" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="field" >
+        </word>
+
+        <mean1 mean="분야," >
+        </mean1>
+
+        <mean2 mean="방면" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="fire" >
+        </word>
+
+        <mean1 mean="해고하다" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="hire" >
+        </word>
+
+        <mean1 mean="고용하다" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="independently" >
+        </word>
+
+        <mean1 mean="독립하여," >
+        </mean1>
+
+        <mean2 mean="따로" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="inexperienced" >
+        </word>
+
+        <mean1 mean="경험이 부족한," >
+        </mean1>
+
+        <mean2 mean="미숙한" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="join" >
+        </word>
+
+        <mean1 mean="~에 합류하다," >
+        </mean1>
+
+        <mean2 mean="입사하다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="leadership" >
+        </word>
+
+        <mean1 mean="지도력," >
+        </mean1>
+
+        <mean2 mean="통솔력" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="limited" >
+        </word>
+
+        <mean1 mean="제한된," >
+        </mean1>
+
+        <mean2 mean="부족한" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="managerial" >
+        </word>
+
+        <mean1 mean="관리의," >
+        </mean1>
+
+        <mean2 mean="경영의" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="particularly" >
+        </word>
+
+        <mean1 mean="특히" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="performance" >
+        </word>
+
+        <mean1 mean="실적," >
+        </mean1>
+
+        <mean2 mean="성과" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="praise" >
+        </word>
+
+        <mean1 mean="칭찬하다," >
+        </mean1>
+
+        <mean2 mean="칭찬" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="predecessor" >
+        </word>
+
+        <mean1 mean="전임자" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="promote" >
+        </word>
+
+        <mean1 mean="승진시키다," >
+        </mean1>
+
+        <mean2 mean="홍보하다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="recognition" >
+        </word>
+
+        <mean1 mean="(공로에 대한)인정," >
+        </mean1>
+
+        <mean2 mean="표창" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="resign" >
+        </word>
+
+        <mean1 mean="사임하다," >
+        </mean1>
+
+        <mean2 mean="물러나다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="resourceful" >
+        </word>
+
+        <mean1 mean="기지가 있는," >
+        </mean1>
+
+        <mean2 mean="수완이 좋은" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="retire" >
+        </word>
+
+        <mean1 mean="은퇴하다," >
+        </mean1>
+
+        <mean2 mean="퇴직하다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="skill" >
+        </word>
+
+        <mean1 mean="기술," >
+        </mean1>
+
+        <mean2 mean="능력" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="succeed" >
+        </word>
+
+        <mean1 mean="(자리의)뒤를 잇다" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="tenure" >
+        </word>
+
+        <mean1 mean="재임 기간," >
+        </mean1>
+
+        <mean2 mean="재임 자격" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="title" >
+        </word>
+
+        <mean1 mean="직함" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="transfer" >
+        </word>
+
+        <mean1 mean="옮기다," >
+        </mean1>
+
+        <mean2 mean="이전하다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="advantage" >
+        </word>
+
+        <mean1 mean="장점," >
+        </mean1>
+
+        <mean2 mean="이점" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="affordable" >
+        </word>
+
+        <mean1 mean="(가격 등이)알맞은," >
+        </mean1>
+
+        <mean2 mean="감당할 수 있는" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="awareness" >
+        </word>
+
+        <mean1 mean="(~의 중요성에 대한)의식," >
+        </mean1>
+
+        <mean2 mean="자각" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="collective" >
+        </word>
+
+        <mean1 mean="축적된," >
+        </mean1>
+
+        <mean2 mean="공동의" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="commercial" >
+        </word>
+
+        <mean1 mean="(TV,라디오)광고," >
+        </mean1>
+
+        <mean2 mean="상업의" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="complimentary" >
+        </word>
+
+        <mean1 mean="무료의" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="confidence" >
+        </word>
+
+        <mean1 mean="신뢰," >
+        </mean1>
+
+        <mean2 mean="확신" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="correspondence" >
+        </word>
+
+        <mean1 mean="통신문," >
+        </mean1>
+
+        <mean2 mean="편지," >
+        </mean2>
+
+        <mean3 mean="서신 왕래" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="customized" >
+        </word>
+
+        <mean1 mean="주문 제작의," >
+        </mean1>
+
+        <mean2 mean="사용자 희망에 맞춘" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="demonstration" >
+        </word>
+
+        <mean1 mean="설명," >
+        </mean1>
+
+        <mean2 mean="시연" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="determine" >
+        </word>
+
+        <mean1 mean="결정하다" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="devoted" >
+        </word>
+
+        <mean1 mean="헌신적인," >
+        </mean1>
+
+        <mean2 mean="충실한" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="effectiveness" >
+        </word>
+
+        <mean1 mean="유효(성)," >
+        </mean1>
+
+        <mean2 mean="효과적임" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="energy-efficient" >
+        </word>
+
+        <mean1 mean="연비가 좋은," >
+        </mean1>
+
+        <mean2 mean="연료 효율이 좋은" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="flier" >
+        </word>
+
+        <mean1 mean="전단," >
+        </mean1>
+
+        <mean2 mean="광고지" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="high-quality" >
+        </word>
+
+        <mean1 mean="고급의," >
+        </mean1>
+
+        <mean2 mean="고품질의" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="individual" >
+        </word>
+
+        <mean1 mean="개인," >
+        </mean1>
+
+        <mean2 mean="사람," >
+        </mean2>
+
+        <mean3 mean="개개의" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="inexpensive" >
+        </word>
+
+        <mean1 mean="값싼," >
+        </mean1>
+
+        <mean2 mean="비용이 안 드는" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="influence" >
+        </word>
+
+        <mean1 mean="영향을 주다," >
+        </mean1>
+
+        <mean2 mean="영향(력)" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="introductory" >
+        </word>
+
+        <mean1 mean="소개용의," >
+        </mean1>
+
+        <mean2 mean="서두의" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="majority" >
+        </word>
+
+        <mean1 mean="다수," >
+        </mean1>
+
+        <mean2 mean="대부분" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="match" >
+        </word>
+
+        <mean1 mean="(필요에)맞추다," >
+        </mean1>
+
+        <mean2 mean="부응하다," >
+        </mean2>
+
+        <mean3 mean="짝" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="maximize" >
+        </word>
+
+        <mean1 mean="극대화하다," >
+        </mean1>
+
+        <mean2 mean="최대한 활용하다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="moderately" >
+        </word>
+
+        <mean1 mean="적당하게," >
+        </mean1>
+
+        <mean2 mean="알맞게" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="motivate" >
+        </word>
+
+        <mean1 mean="동기를 부여하다," >
+        </mean1>
+
+        <mean2 mean="원인이 되다" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="offer" >
+        </word>
+
+        <mean1 mean="제공하다," >
+        </mean1>
+
+        <mean2 mean="제안하다," >
+        </mean2>
+
+        <mean3 mean="제공" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="preferential" >
+        </word>
+
+        <mean1 mean="우선권을 주는" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="presence" >
+        </word>
+
+        <mean1 mean="있음," >
+        </mean1>
+
+        <mean2 mean="존재" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="promote" >
+        </word>
+
+        <mean1 mean="홍보하다," >
+        </mean1>
+
+        <mean2 mean="판촉하다," >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="publicity" >
+        </word>
+
+        <mean1 mean="홍보," >
+        </mean1>
+
+        <mean2 mean="광고" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="rather than" >
+        </word>
+
+        <mean1 mean="~보다는" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="respondent" >
+        </word>
+
+        <mean1 mean="응답자" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="run an ad" >
+        </word>
+
+        <mean1 mean="광고를 내다" >
+        </mean1>
+
+        <mean2 mean="" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="satisfaction" >
+        </word>
+
+        <mean1 mean="만족," >
+        </mean1>
+
+        <mean2 mean="충족" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="saving" >
+        </word>
+
+        <mean1 mean="절약," >
+        </mean1>
+
+        <mean2 mean="할인," >
+        </mean2>
+
+        <mean3 mean="절약하는" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="suitable" >
+        </word>
+
+        <mean1 mean="적격의," >
+        </mean1>
+
+        <mean2 mean="어울리는" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="survey" >
+        </word>
+
+        <mean1 mean="(설문)조사," >
+        </mean1>
+
+        <mean2 mean="(설문)조사하다," >
+        </mean2>
+
+        <mean3 mean="살피다" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="testimonial" >
+        </word>
+
+        <mean1 mean="추천의 글," >
+        </mean1>
+
+        <mean2 mean="증명서" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="versatile" >
+        </word>
+
+        <mean1 mean="다재 다능한," >
+        </mean1>
+
+        <mean2 mean="다용도의" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+    <word_set>
+        <word word="versatile" >
+        </word>
+
+        <mean1 mean="다재 다능한," >
+        </mean1>
+
+        <mean2 mean="다용도의" >
+        </mean2>
+
+        <mean3 mean="" >
+        </mean3>
+    </word_set>
+
+</word_list>
